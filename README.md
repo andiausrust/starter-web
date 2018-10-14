@@ -16,3 +16,5 @@ Sample website with plenty of files for demos
 Shows how to work with remote, deploment
 
 ## Copyright included
+
+please fork this repo and issue pull
