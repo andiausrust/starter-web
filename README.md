@@ -14,3 +14,5 @@ Sample website with plenty of files for demos
 
 ## Starter Project
 Shows how to work with remote, deploment
+
+## Copyright included
