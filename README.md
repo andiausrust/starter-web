@@ -7,7 +7,7 @@ then more changes for my features branch too
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos update to 
 
 ## Introduction
 
