@@ -1,18 +1,16 @@
 <!DOCTYPE html>
 <head>
 	copyright
-	adding changes befor rebaseing conflicts
-	branche big trouble
-	asdfsdf
-	alksdjf
-	<title> Avery update TITLE site/title>
+<<<<<<< HEAD
+	<title> Avery repectful site/title>
+=======
+	<title>Modified great website</title>
+>>>>>>> realwork
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
 			padding-top: 50px;
 			padding-bottom: 20px;
-
-			asdfsdf
 		}
 	</style>
 	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
@@ -21,15 +19,19 @@
 	<main class="container">
 	<!-- Content Goes Here -->
 		<p>
-			Just some content
+<<<<<<< HEAD
+			nto shur were to go
 		</p>
-		aöskdjflskdlfksdlkjfsldkjflk
-
-		asdfdsf
 	</main>
 	<footer class="container">
-		<p>&copy; Gti Training 2014 with STASH</p>
-		asdkljfsdlkjfök
+		<p>&copy; Company asdfsd</p>
+=======
+			Just some content mor text here
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Gti Training 2014</p>
+>>>>>>> realwork
 	</footer>
 </body>
 </html>
