@@ -23,3 +23,5 @@ Shows how to work with remote, deploment
 please fork this repo and issue pull
 
 ## 2014 Git Training, emergency, second round
+
+## simple web-site next part
