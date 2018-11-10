@@ -28,4 +28,4 @@ please fork this repo and issue pull
 
 ## next one
 
-## can be on any web server
+## can be on any web server with only one
