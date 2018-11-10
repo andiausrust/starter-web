@@ -25,3 +25,7 @@ please fork this repo and issue pull
 ## 2014 Git Training, emergency, second round
 
 ## simple web-site next part
+
+## next one
+
+## can be on any web server
