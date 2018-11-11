@@ -35,3 +35,10 @@ please fork this repo and issue pull
 ## express commit
 
 ## tis is a simple project and it has changed
+
+## next amendmend
+
+## see different stages of comiit
+
+## check what has really changed in working directory 
+## +++++++++++++++++++++++++++++++++++++++++++++++++++
