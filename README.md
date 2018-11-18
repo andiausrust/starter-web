@@ -1,4 +1,4 @@
-# Starter Web Project to get everything
+# Startalskdjfer Web Project to get everything
 
 This repository is for showing how Git and GitHub work
 Adding a line for rebasing example:
