@@ -1,4 +1,3 @@
-# Startalskdjfer Web Project to get everything
 
 This repository is for showing how Git and GitHub work
 Adding a line for rebasing example:
@@ -47,4 +46,3 @@ please fork this repo and issue pull
 
 ## adding introduction## a## adding introduction## adding introduction## adding introduction## adding introduction## adding introduction## adding ## introductiondding introduction## adding introduction## adding introduction## adding introduction## adding introduction
 
-## ## adding introduction## adding introduction## ## adding introduction## adding introduction## ## adding introduction## adding introduction## ## adding introduction## adding introductionalskdfjlksdlksjdlf
