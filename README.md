@@ -39,10 +39,3 @@ please fork this repo and issue pull
 
 ## see different stages of comiit
 
-## check what has really changed in working directory 
-## +++++++++++++++++++++++++++++++++++++++++++++++++++
-
-## Readme new to train difference
-
-## adding introduction## a## adding introduction## adding introduction## adding introduction## adding introduction## adding introduction## adding ## introductiondding introduction## adding introduction## adding introduction## adding introduction## adding introduction
-
