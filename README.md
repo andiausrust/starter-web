@@ -17,10 +17,6 @@ Sample website with plenty of files for demos
 ## Starter Project
 Shows how to work with remote, deploment
 
-## Copyright included
-
-please fork this repo and issue pull
-
 ## 2014 Git Training, emergency, second round
 
 ## simple web-site next part
@@ -38,4 +34,5 @@ please fork this repo and issue pull
 ## next amendmend
 
 ## see different stages of comiit
+###############################################
 
