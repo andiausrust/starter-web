@@ -19,3 +19,5 @@ aslkdjflskdlfks# humanstxt.org/
     zr
 
     askldjflskdflskjd
+
+## 1. changed humans.txt in myfeatur
