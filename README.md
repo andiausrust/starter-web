@@ -36,3 +36,5 @@ Shows how to work with remote, deploment
 ## see different stages of comiit
 ###############################################
 
+## 2. chanded README in master
+
