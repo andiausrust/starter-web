@@ -35,5 +35,9 @@ Shows how to work with remote, deploment
 
 ## another paragraph
 
+## a new static
+
+
+## modifiying file indir
 
 
