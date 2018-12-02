@@ -34,10 +34,7 @@ Shows how to work with remote, deploment
 ## next amendmend
 
 ## see different stages of comiit
-###############################################
-<<<<<<< HEAD
+
 
 ## 2. chanded README in master
-=======
->>>>>>> myfeatur
 
