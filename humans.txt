@@ -20,4 +20,4 @@ aslkdjflskdlfks# humanstxt.org/
 
     askldjflskdflskjd
 
-## 1. changed humans.txt in myfeatur
+## 1. changed humans.txt in simple-changes
