@@ -29,9 +29,7 @@ Shows how to work with remote, deploment
 
 ## express commit
 
-## tis is a simple project and it has changed
-
-## next amendmend
+### new w
 
 
 
