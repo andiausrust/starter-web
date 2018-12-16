@@ -29,15 +29,5 @@ Shows how to work with remote, deploment
 
 ## express commit
 
-### new w
-
-## pushed to github
-
-## another paragraph
-
-## a new static
-
-
-## modifiying file indir
 
 
