@@ -51,4 +51,4 @@ Shows how to work with remote, deploment
 
 changes on "master"
 
-changes on "myfeature"
+changes on "master"
