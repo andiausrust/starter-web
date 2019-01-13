@@ -49,12 +49,3 @@ Shows how to work with remote, deploment
 ## express commit
 
 
-changes on "master"
-
-changes on "master"
-
-changes on mastera
-
-chnages on master for stashing
-
-doing fix after stash
